@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
-import Weather from './component/weather'
+import Pets from './component/pets'
 
 class App extends React.Component {
   constructor(props) {
     super(props);
   }
   render() {
-    let weatherHtml = <Weather/>
-    return (weatherHtml)
+    let petsHtml = <Pets/>
+    return (petsHtml)
   }
 }
  

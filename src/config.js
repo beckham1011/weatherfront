@@ -1,3 +1,3 @@
 global.constants = {
-    serverUrl:'http://5c92dbfae7b1a00014078e61.mockapi.io/owners'
+    petsServerUrl:'http://5c92dbfae7b1a00014078e61.mockapi.io/owners'
 };
