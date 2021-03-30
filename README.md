@@ -8,7 +8,13 @@ git clone https://github.com/beckham1011/weatherfront.git
 ## Checkout pets
 git checkout Pets
 
+In the project directory, you can run:
+### `npm install`
+Compile the project
+
 ### `npm start`
+Start the project
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
