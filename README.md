@@ -1,10 +1,12 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Download
+git clone https://github.com/beckham1011/weatherfront.git
 
-In the project directory, you can run:
+
+## Checkout pets
+git checkout Pets
 
 ### `npm start`
 
