@@ -6,6 +6,10 @@ Download
 ##  git clone https://github.com/beckham1011/weatherfront.git
 
 In the project directory, you can run:
+Compile the project
+### `npm install`
+
+Start the project
 ### `npm start`
 
 Runs the app in the development mode.\
